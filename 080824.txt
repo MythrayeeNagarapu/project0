@@ -1,0 +1,70 @@
+Software testing Life cycle(STLC)
+
+-> Part of sdlc
+
+Phases include:
+1.Test Planning
+2.Test Analysis
+3.Test case design
+4.Test Execution
+5.Bug Reporting
+4.Test closure
+
+-> testcases: a list of conditions.
+
+
+ui design,business design,database design
+
+
+Test plan:
+   prepared by testlead
+Introduction:
+description of the project,purpose,who will use 
+
+Scope:
+   In scope:
+List of features to be developed
+types of testing required
+
+   out of scope:
+Features not to be tested
+types of testing not required.
+
+Pass/Fail criteria :
+
+Entry and Exit criteria :
+
+condition for start and condition for stop!
+
+Resource:
+
+   Team, reporting hierarchy ,point of contact 
+
+Approach:
+
+   the testing strategy/approach, we have to follow.
+
+Test environment:
+
+   the config required to the system, ram, disk space, any additional software .plugin required
+
+Test deliverables:
+
+   documents are supposed to prepared during QA
+       
+       ex: review docs, testcases, traceability matrix, defects, metrics
+
+
+
+NOTE: for agile model ,have sprint plan
+      what are the features(tasks/stories) in dev
+      schedule(dev ,QA)
+
+
+
+
+
+
+
+
+

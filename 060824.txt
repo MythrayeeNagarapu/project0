@@ -1,0 +1,63 @@
+
+objectives of testing:
+
+>conformance to requirements
+>finding defects and reporting defects (bugs)
+
+s/w testing :
+
+s/w : set of prgm for particular functionality
+ 
+testing = verification(review) + validiation
+
+static testing(without execution)
+
+validiation is done after verification which can be done on software
+
+dynamic testing (with execution)
+
+
+ec2 servers - aws ki
+
+
+dev environment,qa envi,production envi
+
+-> plan -> do -> check -> act
+
+edward deming principles 
+ 
+project and product 
+
+
+Quality in testing?
+quality Gap
+ 
+> agile model
+> waterfall model
+
+
+
+*browserstack
+*saucelabs
+*junit
+
+
+> Testing principles
+
+#exhaustive testing is not possible
+#defect clustering(pareto principle)
+#pesticide paradox 
+#testing shows presence of defects
+#absence of Error - fallacy
+#early testing
+#testing is context dependent
+
+
+
+positive and negative scenarios(task)
+
+testcases writing
+jira 
+bug report
+
+

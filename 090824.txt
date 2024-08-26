@@ -1,0 +1,20 @@
+12 principles of agile model:
+
+1. Customer satisfaction through early and continuous delivery.
+2. Welcome changing requirements.
+3. Deliver working softwares freqently.
+4. Business people and developers must work together daily.
+5. Build projects around motivated individuals.
+6. Face to face communication.
+7. Working s/w is the measure of progess.
+8. Sustainable development.
+9. Technical excellence and good design.
+10. Simplicity.
+11. Self organizing teams.
+12. Regular reflection and adjustment.
+
+
+adobe xd
+
+wireframes
+

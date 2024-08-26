@@ -1,0 +1,13 @@
+> software development life cycle
+
+-> requirements
+-> planning 
+-> design
+-> coding
+-> testing
+-> release & maintanance
+
+dev,qa,production environments
+
+
+
