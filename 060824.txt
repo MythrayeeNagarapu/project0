@@ -57,7 +57,6 @@ quality Gap
 positive and negative scenarios(task)
 
 testcases writing
-jira 
-bug report
+jira
 
 
